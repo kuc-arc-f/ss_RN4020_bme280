@@ -132,7 +132,7 @@ void setup()
 }
 */
 
-/*
+/* 
 void loop()
 {
   while (BME280.isMeasuring()) {

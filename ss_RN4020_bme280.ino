@@ -1,5 +1,5 @@
 
-/* 
+/*
   SoftwareSerial, RN4020 BLE (Low Power version)
   with Central= raspBerryPi , BME280 Sensor
  *  v 0.9.5
